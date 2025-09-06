@@ -43,6 +43,8 @@
 </p>
 
 ## 📇Contact
+<p align="center">
   <a href="mailto:jjsarlat07@gmail.com">
     <img src="https://img.shields.io/badge/Email-%2300ffff?style=for-the-badge&logo=gmail&logoColor=white"/>
+</p>
   </a>
