@@ -6,7 +6,7 @@
 - 🌐 `Spanish` as native language. Advanced `English`. Beginner `Japanese`. 
 <br>
 
-## 🛠️Technologies That I have used
+## 🛠️Technologies that I have used💪
 ### Programming languages
 <p align="left">
   <a href="https://skillicons.dev">
