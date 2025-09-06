@@ -44,5 +44,5 @@
 
 ## Contact
   <a href="mailto:jjsarlat07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%6B9ED1?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-%2300ffff?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
