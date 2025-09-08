@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Jonathan 👋</h1>
 
-- 💼 I'm `software analyst` working at `Universidad Tecnológica de Panamá` in the DITIC department(https://utp.ac.pa/).
+- 💼 I'm a `software analyst` working at `Universidad Tecnológica de Panamá` in the DITIC department(https://utp.ac.pa/).
 - 📈 Currently using tools like GitHub, Jira, Figma and Scrum agile development.
 - 🎨 I am also an `artist` and `writer` that is creating his own worlds and characters.
 - 🌐 `Spanish` as native language. Advanced `English`. Beginner `Japanese`. 
