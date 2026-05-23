@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Jonathan 👋</h1>
+<h1 align="center"><b>Hi!👋</h1>
 
 - 💼 I'm a `software analyst` working at `Universidad Tecnológica de Panamá` in the DITIC department(https://utp.ac.pa/).
 - 📈 Currently using tools like GitHub, Jira, Figma and Scrum agile development.
